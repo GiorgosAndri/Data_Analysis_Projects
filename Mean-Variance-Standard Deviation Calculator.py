@@ -1,5 +1,6 @@
 import numpy as np
-
+#this project was done for obtaining the Data Analysis with Python certificate from FreeCodeCamp
+#https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator
 def calculate(list):
     lista = list
     if len(lista) < 9:
