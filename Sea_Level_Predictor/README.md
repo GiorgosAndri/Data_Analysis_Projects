@@ -1,4 +1,4 @@
-# World energy consumption interacrive dashboard
+# FCC seal level predictor
 
 These are two versions of the freeCodeCamp's project sea lever predictor. One is using the linear regression of the scipy library and the other is using the linear regression of the Pyspark's library.
 
